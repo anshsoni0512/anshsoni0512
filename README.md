@@ -2,7 +2,13 @@
 
 # Hi, I'm Ansh Soni 👋
 
-### AI Engineer · GenAI & LLM Applications
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=AI+Engineer;GenAI+%26+LLM+Applications;RAG+%7C+Agentic+AI+%7C+MLOps;Open+to+2026+Opportunities" alt="Typing SVG" />
+
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00b4d8&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -10,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 M.S. in Computer Science @ **Northeastern University** 
+- 🎓 M.S. in Computer Science @ **Northeastern University**
 - 🔭 I build **LLM-powered and Agentic AI applications** — RAG systems, multi-agent workflows, and end-to-end ML pipelines
 - 🌱 Currently going deeper on **agentic AI, multi-agent orchestration, and LLM fine-tuning**
 - 💬 Ask me about **LLMs, RAG, LangChain/LangGraph, LLMOps/MLOps and Cloud**
@@ -33,7 +39,8 @@
 **GenAI, LLMs & NLP**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claudecode&logoColor=white)
@@ -62,6 +69,31 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
+
+</div>
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -69,4 +101,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-soni-8683512a4/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshsoni0512@gmail.com)
 
+</div>
+
+<div align="center">
+  <sub>⭐️ From <a href="https://github.com/YOUR_USERNAME">Ansh Soni</a></sub>
 </div>
