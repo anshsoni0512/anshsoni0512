@@ -70,6 +70,8 @@
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anshsoni0512&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
