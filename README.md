@@ -3,7 +3,7 @@
 # Hi, I'm Ansh Soni 👋
 
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=AI+Engineer;GenAI+%26+LLM+Applications;RAG+%7C+Agentic+AI+%7C+MLOps;Open+to+2026+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=EF233C&center=true&vCenter=true&width=650&lines=AI+Engineer;GenAI+%26+LLM+Applications;RAG+%7C+Agentic+AI+%7C+MLOps;Open+to+2026+Opportunities" alt="Typing SVG" />
 
 </div>
 
@@ -70,23 +70,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anshsoni0512&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anshsoni0512&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshsoni0512&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top Languages" />
-
 </div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshsoni0512&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=anshsoni0512&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
-
-</div>
-
 ---
 
 ## 🌐 Connect With Me
