@@ -3,7 +3,7 @@
 # Hi, I'm Ansh Soni 👋
 
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=500&color=EF233C&center=true&vCenter=true&width=650&lines=AI+Engineer+-+GenAI+%26+LLM+Applications;RAG+%7C+Agentic+AI+%7C+MLOps;Open+to+2026+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=500&color=EF233C&center=true&vCenter=true&width=650&lines=AI+Engineer+-+GenAI+%26+LLM+Applications;RAG+%7C+Agentic+AI+%7C+MLOps" alt="Typing SVG" />
 
 </div>
 
@@ -78,8 +78,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-soni-8683512a4/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshsoni0512@gmail.com)
 
-</div>
-
-<div align="center">
-  <sub>⭐️ From <a href="https://github.com/YOUR_USERNAME">Ansh Soni</a></sub>
 </div>
