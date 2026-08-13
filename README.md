@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 M.S. in Computer Science @ **Northeastern University**
-- 🔭 I build **LLM-powered and Agentic AI applications** — RAG systems, multi-agent workflows, and end-to-end ML pipelines
+- 🔭 I build **LLM-powered and Agentic AI applications** - RAG systems, multi-agent workflows, and end-to-end ML pipelines
 - 🌱 Currently going deeper on **agentic AI, multi-agent orchestration, and LLM fine-tuning**
 - 💬 Ask me about **LLMs, RAG, LangChain/LangGraph, LLMOps/MLOps and Cloud**
 - 📫 Reach me at **anshsoni0512@gmail.com**
@@ -61,14 +61,6 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anshsoni0512&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
-</div>
 
 ---
 
