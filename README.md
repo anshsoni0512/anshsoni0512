@@ -66,7 +66,7 @@
 
 ## 🌐 Connect With Me
 
-<div align="center">
+<div>
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-DE0A26?style=for-the-badge&logo=portfolio&logoColor=white)](https://anshsoni0512.github.io)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-soni-8683512a4/)
